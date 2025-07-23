@@ -1,0 +1,5 @@
+Django>=3.2,<4.0
+python-dotenv==0.19.2
+Pillow==9.5.0
+# Optional - if you want to use MySQL instead of SQLite
+# mysqlclient==2.1.1 
